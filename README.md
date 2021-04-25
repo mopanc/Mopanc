@@ -23,10 +23,9 @@ Here are some ideas to get you started:
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&layout=compact&theme=dracula" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://linkedin.com/in/jorge-mopanc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopanc" height="35" width="35" />
-  </a>
 </p>
 
 <!--
