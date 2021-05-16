@@ -20,11 +20,48 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dracula">
 </p>
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>  
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="IOS" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.nodejs.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.nodejs.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+</p>
+
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&layout=compact&theme=dracula" />
 </p>
 
+
 <p align="right">
+  Conectar: 
   <a href="https://linkedin.com/in/jorge-mopanc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopanc" height="35" width="35" />
 </p>
@@ -35,19 +72,7 @@ Here are some ideas to get you started:
 </p>
 
 <details>
-  <summary>Hackathons</summary>
-  
-  | Hackathon | Place | Role |Date
-  | :---: | :---: | :---: | :---:|
-  | Hacking.rio | Rio de Janeiro | Mentor/Ambassador| 2019-10-18
-  | MegaHack | Online | Mentor | 2020-02-02
-  | BRASA Hacks | Online | Mentor | 2020-03-12 
-  | Hacking.help| Online | Volunteer/Organization | 2020-06-12
-  | CCR| Online | Mentor | 2020-07-12
-    
-</details>
 
-<details>
 <summary>Educational Content</summary>
   
   
