@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💬 Ask me about ...
 <!--
 **Mopanc/Mopanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark">
 </p>
-
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -33,11 +32,7 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="IOS" width="40" height="40"/> 
-  </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
@@ -54,17 +49,17 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="Node.js" width="40" height="40"/> 
   </a>
 </p>
-
+<br/>
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&layout=compact&theme=dracula" />
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&langs_count=10&layout=compact&theme=dark" />
 </p>
-
-
-<p align="right">
-  Conectar: 
+<br/>
+<!--
+<p align="center"> 
   <a href="https://linkedin.com/in/jorge-mopanc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopanc" height="35" width="35" />
 </p>
+-->
 
 <!--
 <p align="center">
