@@ -61,24 +61,181 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<!--
-<p align="center">
-  Confira eventos que eu participei, organanizei ou contribui
-</p>
+
+<h3 align="left">
+  Confira o resumo dos meus projetos:
+</h3>
+
+<br>
+<br>
 
 <details>
 
-<summary>Educational Content</summary>
+  <summary>API Crypto Coins</summary>
   
   
-  | Title | Type | Role | Avenue | Date
-  | :---: | :---: | :---: | :---:| :--------:|
-  | Introduction to Git&Github | Bootcamp | Instructor | UniRedentor |2019-04-27 
-  | Managing successful repos with github Workflow | Workshop | Instructor | CampusParty2019 | 2019-02-16
-  | The importance of been in a community and how GitHub can help you on that journey | Talk | Speaker | CampusParty2019 | 2019-02-14
-  | Whats GitHub and why it's loved by Developers | Talk | Speaker | CampusParty2019 | 2019-02-14
-  | Introduction to Git & GitHub | Online Free Course | Instructor | Digital Inovation one | 2020-09-09
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | API Crypto Coins | JavaScript/Html5/Css3 | Projeto Web utilizando a API Coin Market Cap
+
   
 </details>
--->
 
+<details>
+
+<summary>Calculadora</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Calc | Html5/Css3 | Projeto simplificado de uma calculadora
+
+  
+</details>
+
+<details>
+
+<summary>Catálogo digital API Marvel</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Catálogo digital Marvel | JavaScript/Html5/Css3/Bootstrap | O app connsiste numa pagina web básica consumindo a API da Marvel trazendo a tela de quadrinhos e o título!
+
+  
+</details>
+
+<details>
+
+<summary>CasaCriativa</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Ideias para a crise | Nodejs/Express/Nunjucks/Sqlite3 | A application to add some ideas that you thought into the lockdown of the pandemic
+
+  
+</details>
+
+<details>
+
+<summary>Home app do santander</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | SantanderDevWeek | Kotlin | Página home do app Santander funcionando de forma responsiva!
+
+  
+</details>
+
+<details>
+
+<summary>snakeGame</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | snakeGame | JavaScript/Html5/Css3 | Recriando o jogo da cobrinha
+
+  
+</details>
+
+<details>
+
+<summary>Game Of Thrones page</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Game Of Thrones page | Jquery/Html5/Css3 | Página web responsiva da série Game Of Thrones todas as capas das temporadas funcionando em carrosel!
+
+
+  
+</details>
+
+<details>
+
+<summary>Home Netflix</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Interface Netflix | JavaScript/Html5/Css3 | Recriando a tela home da Netflix
+
+  
+</details>
+
+<details>
+
+<summary>Instagram Login page</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Instagram Login page | Html5/Css3 | Página de login do instagram simplificada funcionando de forma responsiva!
+
+  
+</details>
+
+<details>
+
+<summary>Jobs Calc</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Calculadora de Jobs Freelance | JavaScript/Html5/Css3/Node.js/Ejs/Express/Sqlite | O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+
+  
+</details>
+
+<details>
+
+<summary>Oficina</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Oficina | Node.js/React/AntTd/JsonServer | The application is for a mechanical workshop of providing services, with two main functions: End user can through a simple web page schedule services for your vehicle. The administrator user (does not contain login) will be able to manage the types of service that the workshop offers and manage the services already scheduled.
+
+  
+</details>
+
+<details>
+  
+
+<summary>Projeto Google glass</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Projeto Google glass | Html5/Css3/JavaScript | Projeto de uma landing page sobre tecnologia!
+
+  
+</details>
+
+
+<details>
+
+<summary>Python Birds</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Angry Birds Simplificado | Python | Versão simples do jogo Angry Birds. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
+
+  
+</details>
+
+<details>
+
+<summary>Tela de Login Facebook</summary>
+  
+  
+  | Title | Languages and Tools | Descrição 
+  | :---: | :---: | :---: |
+  | Facebook login | Html5/Css3 | Tela de login da página do Facebook
+
+  
+</details>
