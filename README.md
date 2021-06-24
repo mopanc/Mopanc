@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">
-  Confira o resumo dos meus projetos:
+  Check out the summary of my projects:
 </h3>
 
 <br>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <summary>API Crypto Coins</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description 
   | :---: | :---: | :---: |
   | API Crypto Coins | JavaScript/Html5/Css3 | Projeto Web utilizando a API Coin Market Cap
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 <summary>Calculadora</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description 
   | :---: | :---: | :---: |
   | Calc | Html5/Css3 | Projeto simplificado de uma calculadora
 
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <summary>Catálogo digital API Marvel</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Catálogo digital Marvel | JavaScript/Html5/Css3/Bootstrap | O app connsiste numa pagina web básica consumindo a API da Marvel trazendo a tela de quadrinhos e o título!
 
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <summary>CasaCriativa</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Ideias para a crise | Nodejs/Express/Nunjucks/Sqlite3 | A application to add some ideas that you thought into the lockdown of the pandemic
 
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 <summary>Home app do santander</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | SantanderDevWeek | Kotlin | Página home do app Santander funcionando de forma responsiva!
 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 <summary>snakeGame</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | snakeGame | JavaScript/Html5/Css3 | Recriando o jogo da cobrinha
 
@@ -146,7 +146,7 @@ Here are some ideas to get you started:
 <summary>Game Of Thrones page</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Game Of Thrones page | Jquery/Html5/Css3 | Página web responsiva da série Game Of Thrones todas as capas das temporadas funcionando em carrosel!
 
@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 <summary>Home Netflix</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Interface Netflix | JavaScript/Html5/Css3 | Recriando a tela home da Netflix
 
@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 <summary>Instagram Login page</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Instagram Login page | Html5/Css3 | Página de login do instagram simplificada funcionando de forma responsiva!
 
@@ -183,7 +183,7 @@ Here are some ideas to get you started:
 <summary>Jobs Calc</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Calculadora de Jobs Freelance | JavaScript/Html5/Css3/Node.js/Ejs/Express/Sqlite | O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
 
@@ -195,7 +195,7 @@ Here are some ideas to get you started:
 <summary>Oficina</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Oficina | Node.js/React/AntTd/JsonServer | The application is for a mechanical workshop of providing services, with two main functions: End user can through a simple web page schedule services for your vehicle. The administrator user (does not contain login) will be able to manage the types of service that the workshop offers and manage the services already scheduled.
 
@@ -208,7 +208,7 @@ Here are some ideas to get you started:
 <summary>Projeto Google glass</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Projeto Google glass | Html5/Css3/JavaScript | Projeto de uma landing page sobre tecnologia!
 
@@ -221,7 +221,7 @@ Here are some ideas to get you started:
 <summary>Python Birds</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Angry Birds Simplificado | Python | Versão simples do jogo Angry Birds. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
 
@@ -233,7 +233,7 @@ Here are some ideas to get you started:
 <summary>Tela de Login Facebook</summary>
   
   
-  | Title | Languages and Tools | Descrição 
+  | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
   | Facebook login | Html5/Css3 | Tela de login da página do Facebook
 
