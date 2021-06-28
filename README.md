@@ -71,6 +71,18 @@ Here are some ideas to get you started:
 
 <details>
 
+  <summary>covid19-tracker</summary>
+  
+  
+  | Title | Languages and Tools | Description 
+  | :---: | :---: | :---: |
+  | Covid19-tracker | JavaScript/Html5 | Projeto Web utilizando React consumindo uma api para rastreio dos dados do covid19 pelo mundo
+
+  
+</details>
+
+<details>
+
   <summary>API Crypto Coins</summary>
   
   
