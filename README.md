@@ -56,6 +56,9 @@ Here are some ideas to get you started:
   <a href="https://www.nodejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="Node.js" width="40" height="40"/> 
   </a>
+    <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a>
 </p>
 <br/>
 <p align="center">
