@@ -9,9 +9,10 @@
 
 
 
+
  <img src="MarketingSpecialist.jpg" alt="My cool screenshot"/>
  
- 
+ <hr>
  
  <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -46,6 +47,7 @@
   </a>
 </p>
 
+  <hr>
 
 
 
@@ -70,6 +72,8 @@ Here are some ideas to get you started:
 <br/>
 
 
+<hr>
+
 <br/>
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&langs_count=10&layout=compact&theme=dark" />
@@ -81,6 +85,8 @@ Here are some ideas to get you started:
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopanc" height="35" width="35" />
 </p>
 -->
+
+<hr>
 
 
 <h3 align="left">
@@ -272,5 +278,25 @@ Here are some ideas to get you started:
 
   
 </details>
+
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/jorge-mopanc/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedinIcon" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.facebook.com/jorgemopanc" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="FacebookIcon" width="40" height="40"/> 
+  </a> 
+   <a href="https://www.instagram.com/jorgemopanc/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="InstaIcon" width="40" height="40"/> 
+  </a>
+   <a href="https://twitter.com/JorgeMo56542670" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> 
+  </a>
+  <a href="https://mopanc.github.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/developerhubio/developerhubio-icon.svg" alt="twitter" width="40" height="40"/> 
+  </a>
+  
+ </p>
 
 
