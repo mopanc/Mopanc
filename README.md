@@ -1,7 +1,9 @@
 
+
+ <img src="MarketingSpecialist.jpg" alt="My cool screenshot"/>
+
 <details>
   
-<img src="./MarketingSpecialist.jpg" alt="My cool screenshot"/>
   
  <summary> Hi there 👋</summary>
 
