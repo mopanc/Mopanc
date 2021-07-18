@@ -1,38 +1,19 @@
 
-
- <img src="MarketingSpecialist.jpg" alt="My cool screenshot"/>
-
 <details>
-  
   
  <summary> Hi there 👋</summary>
 
 ![](https://komarev.com/ghpvc/?username=Mopanc&label=PROFILE+VIEWS)
   
-  </details>
+</details>
 
 
-<!--
-**Mopanc/Mopanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark">
-</p>
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
+ <img src="MarketingSpecialist.jpg" alt="My cool screenshot"/>
+ 
+ 
+ 
+ <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -64,6 +45,31 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a>
 </p>
+
+
+
+
+<!--
+**Mopanc/Mopanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark">
+</p>
+<br/>
+
+
 <br/>
 <p align="center">
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&langs_count=10&layout=compact&theme=dark" />
