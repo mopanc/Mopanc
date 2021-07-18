@@ -1,6 +1,8 @@
 
 <details>
   
+<img src="./MarketingSpecialist.jpg" alt="My cool screenshot"/>
+  
  <summary> Hi there 👋</summary>
 
 ![](https://komarev.com/ghpvc/?username=Mopanc&label=PROFILE+VIEWS)
