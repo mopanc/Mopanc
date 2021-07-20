@@ -285,20 +285,22 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedinIcon" width="40" height="40"/> 
   </a> 
   <a href="https://www.facebook.com/jorgemopanc" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="FacebookIcon" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="FacebookIcon" width="40" height="40"/> 
   </a> 
-   <a href="https://www.instagram.com/jorgemopanc/" target="_blank"> 
+
+   <a href="https://twitter.com/JorgeMo56542670" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/> 
+  </a>
+     <a href="https://codepen.io/mopanc" target="_blank"> 
+    <img src="https://image.flaticon.com/icons/png/512/2111/2111262.png" alt="twitter" width="40" height="40"/> 
+  </a>
+     <a href="https://www.instagram.com/jorgemopanc/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="InstaIcon" width="40" height="40"/> 
   </a>
-   <a href="https://twitter.com/JorgeMo56542670" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/> 
-  </a>
   <a href="https://mopanc.github.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/developerhubio/developerhubio-icon.svg" alt="twitter" width="40" height="40"/> 
+    <img src="https://image.flaticon.com/icons/png/512/876/876019.png" alt="twitter" width="40" height="40"/> 
   </a>
-   <a href="https://codepen.io/mopanc" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="twitter" width="40" height="40"/> 
-  </a>
+
   
  </p>
 
