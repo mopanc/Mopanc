@@ -296,6 +296,9 @@ Here are some ideas to get you started:
   <a href="https://mopanc.github.io/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/developerhubio/developerhubio-icon.svg" alt="twitter" width="40" height="40"/> 
   </a>
+   <a href="https://codepen.io/mopanc" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="twitter" width="40" height="40"/> 
+  </a>
   
  </p>
 
