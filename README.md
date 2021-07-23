@@ -212,7 +212,7 @@ Here are some ideas to get you started:
   
   | Title | Languages and Tools | Description
   | :---: | :---: | :---: |
-  | Instagram Login page | Html5/Css3 | Página de login do instagram simplificada funcionando de forma responsiva!
+  | Instagram Login page | Html5/Css3 | Instagram login page, responsive!
 
   
 </details>
