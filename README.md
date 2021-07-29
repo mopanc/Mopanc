@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&langs_count=10&layout=compact&theme=dark" />
+  <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mopanc&langs_count=8&layout=compact&theme=dark" />
 </p>
 <br/>
 <!--
