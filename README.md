@@ -10,7 +10,7 @@
 
 
 
- <img src="MarketingSpecialist.jpg" alt="My cool screenshot"/>
+ <img src="MarketingSpecialist2.jpg" alt="My cool screenshot"/>
  
  <hr>
  
