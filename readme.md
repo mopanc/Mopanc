@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">
-  Check out the summary of my projects:
+  Check out the top 5 of my projects:
 </h3>
 
 <br>
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<!--<details>
 
   <summary>API Crypto Coins</summary>
 
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   | API Crypto Coins | JavaScript/Html5/Css3 | Projeto Web utilizando a API Coin Market Cap
 
 
-</details>
+</details>-->
 
 <details>
 
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<!--<details>
 
 <summary>Catálogo digital API Marvel</summary>
 
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
   | Catálogo digital Marvel | JavaScript/Html5/Css3/Bootstrap | O app connsiste numa pagina web básica consumindo a API da Marvel trazendo a tela de quadrinhos e o título!
 
 
-</details>
+</details>-->
 
 <details>
 
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<!--<details>
 
 <summary>snakeGame</summary>
 
@@ -174,9 +174,9 @@ Here are some ideas to get you started:
   | snakeGame | JavaScript/Html5/Css3 | Recriando o jogo da cobrinha
 
 
-</details>
+</details>-->
 
-<details>
+<!--<details>
 
 <summary>Game Of Thrones page</summary>
 
@@ -187,9 +187,9 @@ Here are some ideas to get you started:
 
 
 
-</details>
+</details>-->
 
-<details>
+<!--<details>
 
 <summary>Home Netflix</summary>
 
@@ -199,9 +199,9 @@ Here are some ideas to get you started:
   | Interface Netflix | JavaScript/Html5/Css3 | Recriando a tela home da Netflix
 
 
-</details>
+</details>-->
 
-<details>
+<!--<details>
 
 <summary>Instagram Login page</summary>
 
@@ -211,7 +211,7 @@ Here are some ideas to get you started:
   | Instagram Login page | Html5/Css3 | Instagram login page, responsive!
 
 
-</details>
+</details>-->
 
 <details>
 
@@ -225,7 +225,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
+<!--<details>
 
 <summary>Oficina</summary>
 
@@ -273,7 +273,7 @@ Here are some ideas to get you started:
   | Facebook login | Html5/Css3 | Tela de login da página do Facebook
 
 
-</details>
+</details>-->
 
 
 <p align="right">
