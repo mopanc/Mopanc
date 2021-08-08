@@ -62,17 +62,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark">
-</p>
-<br/>
-
-
-<hr>
-
-<br/>
-<p align="center">
-  <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mopanc&langs_count=8&layout=compact&theme=dark" />
+<p align="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark"> &nbsp; &nbsp <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mopanc&langs_count=8&layout=compact&theme=dark" />
 </p>
 <br/>
 <!--
