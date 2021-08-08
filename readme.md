@@ -92,6 +92,19 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+
+<details>
+
+<summary>Jobs Calc</summary>
+
+
+  | Title | Languages and Tools | Description
+  | :---: | :---: | :---: |
+  | Calculadora de Jobs Freelance | JavaScript/Html5/Css3/Node.js/Ejs/Express/Sqlite | O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+
+
+</details>
+
 <details>
 
   <summary>covid19-tracker</summary>
@@ -100,6 +113,18 @@ Here are some ideas to get you started:
   | Title | Languages and Tools | Description 
   | :---: | :---: | :---: |
   | Covid19-tracker | JavaScript/Html5 | Projeto Web utilizando React consumindo uma api para rastreio dos dados do covid19 pelo mundo
+
+
+</details>
+
+<details>
+
+<summary>CasaCriativa</summary>
+
+
+  | Title | Languages and Tools | Description
+  | :---: | :---: | :---: |
+  | Ideias para a crise | Nodejs/Express/Nunjucks/Sqlite3 | A application to add some ideas that you thought into the lockdown of the pandemic
 
 
 </details>
@@ -140,17 +165,7 @@ Here are some ideas to get you started:
 
 </details>-->
 
-<details>
 
-<summary>CasaCriativa</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Ideias para a crise | Nodejs/Express/Nunjucks/Sqlite3 | A application to add some ideas that you thought into the lockdown of the pandemic
-
-
-</details>
 
 <details>
 
@@ -213,17 +228,6 @@ Here are some ideas to get you started:
 
 </details>-->
 
-<details>
-
-<summary>Jobs Calc</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Calculadora de Jobs Freelance | JavaScript/Html5/Css3/Node.js/Ejs/Express/Sqlite | O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
-
-
-</details>
 
 <!--<details>
 
