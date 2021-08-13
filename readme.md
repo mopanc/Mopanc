@@ -8,9 +8,9 @@
 
 
 
-
+ <a align="center">
  <img src="MarketingSpecialist2.jpg" alt="My cool screenshot"/>
-
+</a>
  <hr>
 
  <h3 align="left">Languages and Tools:</h3>
