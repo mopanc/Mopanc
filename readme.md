@@ -8,8 +8,8 @@
 
 
 
- <a align="center" href="https://mopanc.github.io/" target="_blank">
- <img src="MarketingSpecialist2.jpg" alt="My cool screenshot"/>
+ <a href="https://mopanc.github.io/" target="_blank">
+ <img align="center" src="MarketingSpecialist2.jpg" alt="My cool screenshot"/>
 </a>
  <hr>
 
