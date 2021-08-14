@@ -38,12 +38,16 @@
   <a href="https://www.nodejs.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
   </a>
-  <a href="https://www.nodejs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="Node.js" width="40" height="40"/> 
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="38" height="38"/> 
   </a>
-    <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  <a href="https://jquery.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> 
   </a>
+     <a href="https://code.visualstudio.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+
 </p>
 
   <hr>
