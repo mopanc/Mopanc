@@ -6,7 +6,7 @@
 
 </details>
 
-🔥 Web Developer
+🔥 I´m a Front-end Developer
 
 👨‍💻 I’m currently working on Netgócio
 
