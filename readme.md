@@ -30,12 +30,12 @@
     <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="40" height="40"/> 
   </a>
   
-   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
-  </a>
-  
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  
+   <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
   </a>
   
   <a href="https://reactjs.org/" target="_blank"> 
