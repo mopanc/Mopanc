@@ -49,8 +49,11 @@
   <a href="https://jquery.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> 
   </a>
-     <a href="https://code.visualstudio.com/" target="_blank"> 
+   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+   <a href="https://dev.mysql.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> 
   </a>
 
 </p>
