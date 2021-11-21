@@ -55,6 +55,9 @@
    <a href="https://dev.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> 
   </a>
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
+  </a>
 
 </p>
 
