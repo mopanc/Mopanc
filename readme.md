@@ -8,7 +8,7 @@
 
 🔥 I´m a Front-end Developer
 
-👨‍💻 I’m currently working on Netgócio
+👨‍💻 I’m currently working at Balanças Marques 
 
 
 
