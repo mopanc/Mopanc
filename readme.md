@@ -6,7 +6,7 @@
 
 </details>
 
-🔥 I´m a Front-end Developer
+🔥 I´m a Developer
 
 👨‍💻 I’m currently working at Balanças Marques 
 
@@ -42,10 +42,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
   
-  <a href="https://jquery.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/> 
-  </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
   </a>
@@ -58,16 +54,8 @@
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
   </a>
   
-  <a href="https://php.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
-  </a>
-  
   <a href="https://dev.mysql.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="38" height="38"/> 
   </a>
   
   <a href="https://git-scm.com/" target="_blank"> 
