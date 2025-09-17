@@ -1,322 +1,201 @@
-<details>
-
-<summary> Hi there 👋</summary>
-
-![](https://komarev.com/ghpvc/?username=Mopanc&label=PROFILE+VIEWS)
-
-</details>
-
-🔥 I´m a Developer
-
-👨‍💻 I’m currently working at Balanças Marques 
-
-
-
-
-
-
-  <h3 align="left">Some Languages and Tools I use:</h3>
-  <p align="center"> 
-  
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>  
-  
-   <a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Sass" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://getbootstrap.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  
-   <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.nodejs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://dev.mysql.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySql" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Jorge%20Morais&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20%F0%9F%94%A7%20Hardware%20Expert%20%7C%20%E2%9A%9B%EF%B8%8F%20Quantum%20Enthusiast&descAlignY=65&descSize=18" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%92%BC+Building+Market-Leading+Payment+Systems;%F0%9F%A4%96+Creating+AI-Powered+Trading+Platforms;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%26+Crypto+Analytics;%F0%9F%9A%80+Node.js+%7C+React+%7C+TypeScript+%7C+C%2FC%2B%2B" alt="Typing Animation" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mopanc&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Mopanc?label=Personal%20Followers&style=for-the-badge&color=764ba2" alt="Personal GitHub" />
+  <img src="https://img.shields.io/github/followers/jorgemorais272?label=Professional%20Followers&style=for-the-badge&color=28a745" alt="Professional GitHub" />
+  <img src="https://img.shields.io/badge/Combined%20Repos-50%2B-ff6b6b?style=for-the-badge" alt="Total Repos" />
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const jorge = {
+  name: "Jorge Morais",
+  profiles: {
+    personal: "mopanc",
+    professional: "jorgemorais272" 
+  },
+  location: "Portugal 🇵🇹",
+  company: "Balanças Marques",
+  mainStack: {
+    backend: ["Node.js", "Express.js", "TypeORM", "SQL Server"],
+    frontend: ["React", "TypeScript", "Socket.IO"],
+    architecture: ["REST APIs", "Real-time Systems"]
+  },
+  hardwareWork: {
+    language: "C Programing",
+    protocols: ["CCTalk", "MQTT"],
+    devices: ["Payment Machines", "Coin Hoppers", "Bill Recyclers"],
+    impact: "🏆 Market-leading payment solutions"
+  },
+  passionProjects: [
+    "🤖 AI Crypto Analysis Platform",
+    "📈 Automated Trading Systems",
+    "💰 Centralized Finance Platform",
+    "🔄 Data Conversion Tools",
+    "⚛️ Quantum Computing Research"
+  ],
+  philosophy: "Bridging quantum possibilities with real-world solutions"
+}
+```
+
+---
+
+## 🏗️ Current Tech Architecture
+
+<div align="center">
+
+### 🚀 Backend & API Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### 🎨 Frontend & UI
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database & Storage
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ⚙️ Systems & Hardware
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
 
-</p>
+<div align="center">
+
+### 🎨 Personal Profile (@mopanc) - Creative & Learning Projects
+[![Mopanc's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mopanc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mopanc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💼 Professional Profile (@jorgemorais272) - Enterprise Solutions
+[![Jorge's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jorgemorais272&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgemorais272&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <hr>
+</div>
 
+<div align="center">
 
+### 🔥 GitHub Activity Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mopanc&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jorgemorais272&theme=radical)](https://git.io/streak-stats)
 
-<!--
-**Mopanc/Mopanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mopanc&show_icons=true&theme=dark">
-</p>
+<div align="center">
 
-<hr>
+### 📈 **Combined Portfolio Overview**
+![Profile Views](https://komarev.com/ghpvc/?username=Mopanc&label=Personal%20Views&color=00d4ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jorgemorais272&label=Professional%20Views&color=28a745&style=flat-square)
 
-<p align="center">
- <img align="center" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mopanc&langs_count=10&layout=compact&theme=dark" />
-</p>
-<!--
-<p align="center"> 
-  <a href="https://linkedin.com/in/jorge-mopanc" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mopanc" height="35" width="35" />
-</p>
--->
+| 🎯 **Metric** | 🎨 **Personal** | 💼 **Professional** |
+|:------------:|:---------------:|:------------------:|
+| **Focus** | Learning & Experiments | Production & Enterprise |
+| **Stack** | Frontend + Creative | Backend + Systems |
+| **Projects** | Open Source | Commercial Applications |
+| **Languages** | JS, HTML, CSS, Vue | Node.js, C, TypeScript |
 
-<hr>
+</div>
 
+---
 
-<h3 align="left">
-  Check out the top 5 of my projects:
-</h3>
+## 🎯 Expertise Areas
 
-<br>
+<div align="center">
 
+| **Backend Development** | **Frontend Engineering** | **Systems Programming** |
+|:----------------------:|:------------------------:|:----------------------:|
+| `Node.js Ecosystem` | `React Ecosystem` | `C/C++ Development` |
+| `Express.js APIs` | `TypeScript` | `Hardware Integration` |
+| `TypeORM & SQL Server` | `Modern State Management` | `MQTT Protocol` |
+| `Real-time with Socket.IO` | `Responsive Design` | `CCTalk Communication` |
+| `Microservices Architecture` | `Performance Optimization` | `Real-time Systems` |
 
-<details>
+</div>
 
-<summary>Jobs Calc</summary>
+---
 
+## ⚡ Weekly Development Distribution
 
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Calculadora de Jobs Freelance | JavaScript/Html5/Css3/Node.js/Ejs/Express/Sqlite | O JobsCalc é uma aplicação de estimativa de cálculo para projetos freelancer, onde é possível cadastrar e excluir jobs (projetos), obtendo uma estimativa de custo de cada job. Além disso, é possível traçar o valor da hora da pessoa que estará usando o sistema 💰
+```text
+💼 MAIN STACK (5 days/week)
+Node.js + Express     20 hrs 30 mins  ████████████████████░   85.4%
+React + TypeScript     8 hrs 15 mins  ████████░░░░░░░░░░░░░   34.4%
+TypeORM + SQL Server  3 hrs 45 mins  ███░░░░░░░░░░░░░░░░░░   15.6%
 
+🔧 HARDWARE DAYS (2 days/week)
+C/C++ Payment Systems  6 hrs 00 mins  ██████░░░░░░░░░░░░░░░   25.0%
+MQTT + CCTalk          2 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░   10.4%
 
-</details>
+⚛️ QUANTUM & PERSONAL PROJECTS (evenings)
+AI/ML Research         4 hrs 00 mins  ████░░░░░░░░░░░░░░░░░   16.7%
+Trading Platform Dev   3 hrs 30 mins  ███░░░░░░░░░░░░░░░░░░   14.6%
+```
 
-<details>
+---
 
-  <summary>covid19-tracker</summary>
+## ⚛️ Quantum Enthusiast & Current Projects
 
+<div align="center">
 
-  | Title | Languages and Tools | Description 
-  | :---: | :---: | :---: |
-  | Covid19-tracker | JavaScript/Html5 | Projeto Web utilizando React consumindo uma api para rastreio dos dados do covid19 pelo mundo
+| 🚀 **Active Projects** | 🔧 **Tech Stack** | 📊 **Status** |
+|:----------------------:|:------------------:|:-------------:|
+| 🤖 **AI Crypto Analysis Platform** | `Python` `TensorFlow` `Node.js` | 🔄 In Development |
+| 📈 **Automated Trading Systems** | `Node.js` `React` `WebSocket` | 🔄 In Development |
+| 💰 **Centralized Finance Platform** | `TypeScript` `Express` `SQL Server` | 🔄 In Development |
+| 🔄 **Data Conversion Tools** | `Node.js` `REST APIs` | 🔄 In Development |
+| ⚛️ **Quantum Computing Research** | `Python` `Qiskit` `Theory` | 📚 Research Phase |
 
+</div>
 
-</details>
+### 💡 **Innovation Focus Areas:**
+- 🧠 **Quantum Computing Applications** in financial modeling
+- 🤖 **AI-Powered Trading Algorithms** with real-time analysis
+- 🔒 **Cryptographic Security** in payment processing
+- ⚡ **Microsecond-latency Systems** for hardware communication
+- 🌐 **Decentralized Finance Integration** with traditional systems
 
-<details>
+---
 
-<summary>CasaCriativa</summary>
+## 🤝 Professional Network
 
+<div align="center">
 
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Ideias para a crise | Nodejs/Express/Nunjucks/Sqlite3 | A application to add some ideas that you thought into the lockdown of the pandemic
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mopanc.github.io-667eea?style=for-the-badge&logoColor=white)](https://mopanc.github.io/)
+[![Professional Site](https://img.shields.io/badge/🏢_Website-jorgemopanc.com-764ba2?style=for-the-badge&logoColor=white)](https://www.jorgemopanc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--mopanc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-mopanc/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge@jorgemopanc.com)
 
+</div>
 
-</details>
+---
 
-<!--<details>
 
-  <summary>API Crypto Coins</summary>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=24&fontColor=ffffff&animation=twinkling" />
+</div>
 
-
-  | Title | Languages and Tools | Description 
-  | :---: | :---: | :---: |
-  | API Crypto Coins | JavaScript/Html5/Css3 | Projeto Web utilizando a API Coin Market Cap
-
-
-</details>-->
-
-<details>
-
-<summary>Calculadora</summary>
-
-
-  | Title | Languages and Tools | Description 
-  | :---: | :---: | :---: |
-  | Calc | Html5/Css3 | Projeto simplificado de uma calculadora
-
-
-</details>
-
-<!--<details>
-
-<summary>Catálogo digital API Marvel</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Catálogo digital Marvel | JavaScript/Html5/Css3/Bootstrap | O app connsiste numa pagina web básica consumindo a API da Marvel trazendo a tela de quadrinhos e o título!
-
-
-</details>-->
-
-
-
-<details>
-
-<summary>Home app do santander</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | SantanderDevWeek | Kotlin | Página home do app Santander funcionando de forma responsiva!
-
-
-</details>
-
-<!--<details>
-
-<summary>snakeGame</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | snakeGame | JavaScript/Html5/Css3 | Recriando o jogo da cobrinha
-
-
-</details>-->
-
-<!--<details>
-
-<summary>Game Of Thrones page</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Game Of Thrones page | Jquery/Html5/Css3 | Página web responsiva da série Game Of Thrones todas as capas das temporadas funcionando em carrosel!
-
-
-
-</details>-->
-
-<!--<details>
-
-<summary>Home Netflix</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Interface Netflix | JavaScript/Html5/Css3 | Recriando a tela home da Netflix
-
-
-</details>-->
-
-<!--<details>
-
-<summary>Instagram Login page</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Instagram Login page | Html5/Css3 | Instagram login page, responsive!
-
-
-</details>-->
-
-
-<!--<details>
-
-<summary>Oficina</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Oficina | Node.js/React/AntTd/JsonServer | The application is for a mechanical workshop of providing services, with two main functions: End user can through a simple web page schedule services for your vehicle. The administrator user (does not contain login) will be able to manage the types of service that the workshop offers and manage the services already scheduled.
-
-
-</details>
-
-<details>
-
-
-<summary>Projeto Google glass</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Projeto Google glass | Html5/Css3/JavaScript | Projeto de uma landing page sobre tecnologia!
-
-
-</details>
-
-
-<details>
-
-<summary>Python Birds</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Angry Birds Simplificado | Python | Versão simples do jogo Angry Birds. Ela não contém replay nem reset, de forma que o jogo não pode retroceder.
-
-
-</details>
-
-<details>
-
-<summary>Tela de Login Facebook</summary>
-
-
-  | Title | Languages and Tools | Description
-  | :---: | :---: | :---: |
-  | Facebook login | Html5/Css3 | Tela de login da página do Facebook
-
-
-</details>-->
-
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/jorge-mopanc/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedinIcon" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.facebook.com/jorgemopanc" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="FacebookIcon" width="30" height="30"/> 
-  </a> 
-
-   <a href="https://twitter.com/JorgeMo56542670" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="30" height="30"/> 
-  </a>
-     <a href="https://codepen.io/mopanc" target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/512/2111/2111262.png" alt="twitter" width="30" height="30"/> 
-  </a>
-     <a href="https://www.instagram.com/jorgemopanc/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="InstaIcon" width="30" height="30"/> 
-  </a>
-  <a href="https://mopanc.github.io/" target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/512/876/876019.png" alt="twitter" width="30" height="30"/> 
-  </a>
-
-
-</p>
+<div align="center">
+  <sub>💡 <i>"The best code is not just functional, but elegant, maintainable, and bridges the gap between complex requirements and simple solutions."</i></sub>
+</div>
