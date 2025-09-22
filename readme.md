@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%92%BC+Building+Market-Leading+Payment+Systems;%F0%9F%A4%96+Creating+AI-Powered+Trading+Platforms;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%26+Crypto+Analytics;%F0%9F%9A%80+Node.js+%7C+React+%7C+TypeScript+%7C+C%2FC%2B%2B" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%F0%9F%92%BC+Building+Market-Leading+Payment+Systems;%F0%9F%A4%96+Creating+AI-Powered+Trading+Platforms;%E2%9A%9B%EF%B8%8F+Quantum+Computing+%26+Crypto+Analytics;" alt="Typing Animation" />
 </div>
 
 <div align="center">
