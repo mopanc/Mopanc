@@ -4,7 +4,7 @@
 
 Full-stack engineer with experience across the entire stack — from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, Go, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
 
-Outside of work, I build products that solve real problems — from AI-powered platforms to public data transparency tools.
+I also build AI-integrated platforms — RAG pipelines with vector search and embeddings, autonomous agents with tool execution, and multi-provider LLM architectures (Claude, OpenAI, Ollama). Two production platforms built from scratch with these capabilities.
 
 ---
 
@@ -30,7 +30,7 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 [**Workora**](https://github.com/mopanc/workora) — Recruitment platform with AI candidate matching, credit-based job posting, Stripe payments, and multi-language support. React + Express + Prisma + Gemini AI.
 
-**Payment Systems** — Self-checkout terminals and payment machines with coin hopper and bill recycler integration, running on custom Yocto Linux images. C + Node.js + MQTT + CCTalk + SQL Server.
+**Payment Systems** *(closed source)* — Self-checkout terminals and payment machines with coin hopper and bill recycler integration, running on custom Yocto Linux images. C + Node.js + MQTT + CCTalk + SQL Server.
 
 ---
 
