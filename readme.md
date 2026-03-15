@@ -1,10 +1,10 @@
 # Jorge Morais
 
-**Tech Lead** — Braga, Portugal · [jorgemopanc.com](https://www.jorgemopanc.com) · [LinkedIn](https://www.linkedin.com/in/jorge-mopanc/)
+**Tech Lead** - Braga, Portugal · [jorgemopanc.com](https://www.jorgemopanc.com) · [LinkedIn](https://www.linkedin.com/in/jorge-mopanc/)
 
-Full-stack engineer with experience across the entire stack — from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, Go, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
+Full-stack engineer with experience across the entire stack, from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, Go, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
 
-I also build AI-integrated platforms — RAG pipelines with vector search and embeddings, autonomous agents with tool execution, and multi-provider LLM architectures (Claude, OpenAI, Ollama). Two production platforms built from scratch with these capabilities.
+I also build AI-integrated platforms, RAG pipelines with vector search and embeddings, autonomous agents with tool execution, and multi-provider LLM architectures (Claude, OpenAI, Ollama). Two production platforms built from scratch with these capabilities.
 
 ---
 
