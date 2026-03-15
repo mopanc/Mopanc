@@ -2,7 +2,7 @@
 
 **Tech Lead** — Braga, Portugal · [jorgemopanc.com](https://www.jorgemopanc.com) · [LinkedIn](https://www.linkedin.com/in/jorge-mopanc/)
 
-Full-stack engineer with experience across the entire stack, from low-level hardware communication (C, MQTT, CCTalk) to modern web platforms (React, Node.js, TypeScript). Currently leading development at Balanças Marques, building market-leading payment and weighing systems.
+Full-stack engineer with experience across the entire stack — from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, Go, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
 
 Outside of work, I build products that solve real problems — from AI-powered platforms to public data transparency tools.
 
@@ -16,6 +16,7 @@ Backend          Node.js · Express · Fastify · Go (net/http) · FastAPI · Pr
 Frontend         React · Next.js · Vue.js · Tailwind CSS · shadcn/ui
 Data             PostgreSQL · SQL Server · Redis · Qdrant
 Infrastructure   Docker · BullMQ · Socket.IO · MQTT
+Embedded         Yocto Linux · Custom images · eMMC flashing · Device tree overlays
 AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Embeddings
 ```
 
@@ -29,7 +30,7 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 [**Workora**](https://github.com/mopanc/workora) — Recruitment platform with AI candidate matching, credit-based job posting, Stripe payments, and multi-language support. React + Express + Prisma + Gemini AI.
 
-**Payment Systems** *(proprietary)* — Market-leading self-checkout terminals and payment machines with coin hopper and bill recycler integration. C + Node.js + MQTT + CCTalk + SQL Server.
+**Payment Systems** — Self-checkout terminals and payment machines with coin hopper and bill recycler integration, running on custom Yocto Linux images. C + Node.js + MQTT + CCTalk + SQL Server.
 
 ---
 
