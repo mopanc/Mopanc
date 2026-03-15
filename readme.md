@@ -34,6 +34,16 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 ---
 
+### Open Source Libraries
+
+[**chunkit**](https://github.com/mopanc/chunkit) — Document chunking for RAG pipelines. Fixed-size, recursive, and markdown-aware strategies. Zero dependencies.
+
+[**env-guard**](https://github.com/mopanc/env-guard) — Type-safe environment variable validation. Schema-based with coercion, fails fast with all issues at once.
+
+[**migrate-sql**](https://github.com/mopanc/migrate-sql) — SQL migration runner with CLI. Plain `.sql` files, database-agnostic adapter pattern, tracks state automatically.
+
+---
+
 ### GitHub
 
 <div>
