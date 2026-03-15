@@ -43,4 +43,4 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 ---
 
-<sub>jorge@jorgemopanc.com</sub>
+<sub>[www.jorgemopanc.com](https://www.jorgemopanc.com)</sub>
