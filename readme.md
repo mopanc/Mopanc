@@ -42,6 +42,8 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 [**migrate-sql**](https://github.com/mopanc/migrate-sql) — SQL migration runner with CLI. Plain `.sql` files, database-agnostic adapter pattern, tracks state automatically.
 
+[**depguard**](https://github.com/mopanc/depguard) — npm package auditor for security, maintenance, licenses, and dependencies. Scores packages 0-100 and recommends install vs write-from-scratch. Includes MCP server.
+
 ---
 
 ### GitHub
