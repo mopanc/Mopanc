@@ -2,7 +2,7 @@
 
 **Tech Lead** - Braga, Portugal · [jorgemopanc.com](https://www.jorgemopanc.com) · [LinkedIn](https://www.linkedin.com/in/jorge-mopanc/)
 
-Full-stack engineer with experience across the entire stack, from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, Go, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
+Full-stack engineer with experience across the entire stack, from custom embedded Linux images (Yocto, eMMC, device tree overlays) and hardware protocols (C, MQTT, CCTalk) to modern web platforms (React, Node.js, TypeScript). Currently leading development at Balanças Marques, building payment and weighing systems.
 
 I also build AI-integrated platforms, RAG pipelines with vector search and embeddings, autonomous agents with tool execution, and multi-provider LLM architectures (Claude, OpenAI, Ollama). Two production platforms built from scratch with these capabilities.
 
@@ -11,8 +11,8 @@ I also build AI-integrated platforms, RAG pipelines with vector search and embed
 ### Tech Stack
 
 ```
-Languages        TypeScript · JavaScript · Go · Python · C · SQL · Kotlin
-Backend          Node.js · Express · Fastify · Go (net/http) · FastAPI · Prisma · Kysely
+Languages        TypeScript · JavaScript · C · SQL
+Backend          Node.js · Express · Fastify · Prisma · Kysely · TypeORM
 Frontend         React · Next.js · Vue.js · Tailwind CSS · shadcn/ui
 Data             PostgreSQL · SQL Server · Redis · Qdrant
 Infrastructure   Docker · BullMQ · Socket.IO · MQTT
