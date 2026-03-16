@@ -42,7 +42,7 @@ AI/ML            RAG pipelines · LLM integration (Claude, OpenAI, Gemini) · Em
 
 [**migrate-sql**](https://github.com/mopanc/migrate-sql) — SQL migration runner with CLI. Plain `.sql` files, database-agnostic adapter pattern, tracks state automatically.
 
-[**depguard.ai**](https://github.com/mopanc/depguard) — MCP server that audits npm packages for security, maintenance, licenses, and dependencies. Scores packages 0-100 and recommends install vs write-from-scratch. Works with Claude Code, Cursor, Windsurf, and any MCP-compatible AI client. Includes built-in token savings tracking.
+[**depguard-cli**](https://github.com/mopanc/depguard) — MCP server that audits npm packages for security, maintenance, licenses, and dependencies. Scores packages 0-100 and recommends install vs write-from-scratch. Works with Claude Code, Cursor, Windsurf, and any MCP-compatible AI client. Includes built-in token savings tracking.
 
 ---
 
